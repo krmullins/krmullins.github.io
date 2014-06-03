@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="24" version="2.0">
+<workbench progressCount="46" version="2.0">
 <workbenchAdvisor/>
-<window height="940" width="1200" x="-1679" y="66">
+<window height="813" width="1200" x="323" y="23">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -28,14 +28,13 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
 <editor activePart="true" focus="true" id="com.aptana.editor.html" name="index.html" partName="index.html" path="/Users/kmullins/krmullins.github.io/thinkful/index.html" title="index.html" tooltip="thinkful/index.html" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkful/index.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="76" selectionOffset="289" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="742" selectionLength="0" selectionOffset="1839" selectionTopPixel="71"/>
 </editor>
 </editors>
 <views>
